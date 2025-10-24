@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jericho Cappal</h1>
-<h3 align="center">A passionate frontend developer from PHILIPPINES</h3>
+<h3 align="center">Not passionate, but im learning</h3>
 
 - 🔭 I’m currently working on **E-commerce Crochet Shop**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jerichocappal8@gmail.com**
 
-- ⚡ Fun fact **im a noob 3rd year college and i want to learn from the start**
+- ⚡ Fun fact **im a 3rd year noob college and i want to learn from the start**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
