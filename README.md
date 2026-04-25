@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jericho Cappal</h1>
 <h3 align="center">Still learning, building step by step</h3>
 
-- 🔭 I’m currently working on **Capstone Project(SMARTVENUE) and Staynear**
+- 🔭 I’m currently working on **Capstone Project(SMARTVENUE), Staynear and Flowly**
 
 - 🌱 I’m currently learning **Python, JavaScript, PHP, and C++**
 
